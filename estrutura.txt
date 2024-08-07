@@ -1,0 +1,35 @@
+ultimate-kl/
+│
+├── config/
+│   └── database.js
+│
+├── models/
+│   └── index.js
+│
+├── pages/
+│   ├── _app.js
+│   ├── api/
+│   │   ├── auth.js
+│   │   ├── nfct.js
+│   │   ├── bsicoob.js
+│   │   └── bbb.js
+│   │   └── register.js
+│   ├── index.js
+│   ├── login.js
+│   ├── register.js
+│   ├── bb-details.js  <!-- Nova página para detalhes do banco BB -->
+│   └── FilterableSortableTable.js
+│
+├── lib/
+│   ├── AuthContext.js
+│   ├── globals.css
+│
+├── public/
+│   ├── bb.png
+│   └── sicoob.png
+│
+├── styles/
+│   ├── Layout.js
+│   ├── Table.js
+│   └── Header.js  <!-- Novo componente de Header -->
+│
